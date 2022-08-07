@@ -1,6 +1,6 @@
 @echo off
 mode 800
-title Enhanced Command Line
+title Statement
 color 03
 
 :a
