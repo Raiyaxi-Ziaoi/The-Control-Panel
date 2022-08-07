@@ -1,10 +1,10 @@
-@echo off
-mode 800
-title Statement
-color 03
+@ECHO OFF
+MODE 800
+TITLE Statement
+COLOR 09
 
-:a
-	set /p in=
-	%in%
-	echo.
-goto a
+:START
+	set /p COMMAND=%cd%^> 
+	%COMMAND%
+	ECHO.
+GOTO START

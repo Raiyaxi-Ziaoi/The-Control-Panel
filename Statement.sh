@@ -1,0 +1,1 @@
+START cmd.cmd && EXIT
