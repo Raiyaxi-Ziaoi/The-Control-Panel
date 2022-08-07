@@ -1,6 +1,6 @@
 <img src="https://i.imgur.com/lRzzpEU.png"></img>
 
-# Enhanced command line
+# Statement
 
 <div align="center"><h2>
 An enhanced command line for use on Windows <br/><br/>Made by Raiyaxi Ziaoi<br/>
