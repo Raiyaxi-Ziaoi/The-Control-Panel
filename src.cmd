@@ -1,6 +1,6 @@
 @ECHO OFF
 MODE 800
-TITLE Statement
+TITLE The Control Panel
 COLOR 09
 
 :START
